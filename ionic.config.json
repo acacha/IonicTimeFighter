@@ -1,0 +1,7 @@
+{
+  "name": "IonicTimeFighter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
